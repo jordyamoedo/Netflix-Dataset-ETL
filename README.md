@@ -29,4 +29,4 @@ Espera-se que este projeto forneça uma ua visão clara das habilidades de getre
 
 - Framework ETL
 - Tecnologias: Python
-- Bibliotecas Utilizadas: Pandas, OS, Glob
+- Pacotess Utilizados: Pandas, OS, Glob, Openpyxl, Xlsxwriter
